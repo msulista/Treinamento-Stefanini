@@ -1,0 +1,16 @@
+bin/
+*.class
+*.jar
+
+# BD
+.vagrant/
+.provision/
+aprendiz-flyway/
+
+# Eclipse
+.classpath
+.settings/
+
+# Maven
+log/
+target/
